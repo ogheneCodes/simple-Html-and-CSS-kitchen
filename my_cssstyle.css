@@ -1,0 +1,42 @@
+body{
+	background-color:#F0F8FF;
+	width:100%;
+	margin:0px auto;
+}
+.col-md-4 {
+	padding:0;
+	margin:0;
+}
+.col-md-4 img{
+	width:100%;
+	height:400px;
+	padding:0;
+	margin:0;
+}
+#footer{
+	background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+	margin:40px 10px 20px 10px;
+	border-radius: 4px;
+}
+#C_footer{
+	background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+	margin:70px 10px 20px 10px;
+	border-radius: 4px;
+}
+#message{
+	
+}
+#O_footer{
+	background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+	margin:450px 10px 20px 10px;
+	border-radius: 4px;
+}
